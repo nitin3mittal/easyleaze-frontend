@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Festive Sale – 0% Brokerage!",
+    "zone": "hero-top",
+    "image": "/dummy/banner-hero.jpg",
+    "link": "/offers/festive",
+    "active": true
+  },
+  {
+    "id": 2,
+    "title": "Blog: 5 Things to Check Before You Buy",
+    "zone": "home-middle",
+    "image": "/dummy/banner-middle.jpg",
+    "link": "/blogs/5-checks",
+    "active": true
+  },
+  {
+    "id": 3,
+    "title": "Partner with HDFC for Home Loan",
+    "zone": "footer-above",
+    "image": "/dummy/banner-footer.jpg",
+    "link": "https://hdfc.com",
+    "active": true
+  },
+  {
+    "id": 4,
+    "title": "Need Help? WhatsApp Now!",
+    "zone": "bottom-stick",
+    "image": "/dummy/banner-bottom.jpg",
+    "link": "https://wa.me/919876543210",
+    "active": true
+  },
+  {
+    "id": 5,
+    "title": "Get a Callback in 30 Sec!",
+    "zone": "popup-home",
+    "image": "/dummy/banner-popup.jpg",
+    "link": "/callback-form",
+    "active": true
+  },
+  {
+    "id": 6,
+    "title": "List Your Property With Us!",
+    "zone": "sidebar-right",
+    "image": "/dummy/banner-sidebar.jpg",
+    "link": "/list-property",
+    "active": true
+  },
+  {
+    "id": 7,
+    "title": "Special Offer on 3 BHK Flats",
+    "zone": "inline-listing-3",
+    "image": "/dummy/banner-inline.jpg",
+    "link": "/offers/3bhk",
+    "active": true
+  },
+  {
+    "id": 8,
+    "title": "🔔 New Location Added: Noida Extension",
+    "zone": "announcement-bar",
+    "image": "/dummy/banner-announcement.jpg",
+    "link": "/locations/noida-extension",
+    "active": true
+  }
+]
